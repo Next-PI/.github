@@ -11,6 +11,7 @@ O que fazemos:
 
 # terceirização-de-sites
   A criação de bots para empresas, por um custo, que pode ser debatido. Com um sistema de dashboard onde o usuario pode controlar tudo.
+   Nosso site principal: https://nextpi.netlify.app/frontend/
   
 # Chatbots-bots
   Criamos bots e chatbots conectados, a sistemas, criando sistemas automatizados para a automação ou apenas para a diversão
